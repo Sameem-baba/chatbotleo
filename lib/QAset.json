@@ -1,0 +1,98 @@
+[
+	{
+		"question": "I’ve noticed blood in my stool. Could it be something serious?",
+		"answer": {
+			"Possible causes": "Hemorrhoids or anal fissures are common, especially if the blood is bright red and you have no other major symptoms. However, dark or tarry stools may indicate bleeding higher in the colon.",
+			"What to do": "If bleeding persists, is accompanied by pain, dizziness, or unexplained fatigue, it’s important to see a doctor. Blood in the stool can sometimes signal more serious conditions like colon polyps, inflammatory bowel disease, or colon cancer."
+		}
+	},
+	{
+		"question": "Why have I been constipated/experiencing diarrhea for weeks?",
+		"answer": {
+			"Possible causes": [
+				"Dietary factors (low fiber, dehydration)",
+				"Stress or IBS (Irritable Bowel Syndrome)",
+				"Infections (bacterial or parasitic)",
+				"Underlying conditions such as inflammatory bowel disease or colon cancer"
+			],
+			"What to do": "If constipation or diarrhea persists longer than a few weeks—especially with blood in the stool, weight loss, or fatigue—visit a healthcare professional to rule out serious causes. They may recommend stool tests or a colonoscopy."
+		}
+	},
+	{
+		"question": "My stool looks narrower than usual. Should I be worried?",
+		"answer": {
+			"Possible causes": "Narrow, 'ribbon-like' stools might be caused by IBS, temporary bowel spasms, or partial obstruction.",
+			"What to do": "If the narrow stools continue for more than a couple of weeks, or if you also notice blood in your stool, abdominal pain, or a feeling of incomplete evacuation, it’s wise to get evaluated. These could be signs of a blockage or growth in the colon."
+		}
+	},
+	{
+		"question": "I’ve been feeling bloated or having abdominal cramps a lot lately. What could cause this?",
+		"answer": {
+			"Possible causes": [
+				"Gas, indigestion, IBS",
+				"Food intolerances or mild infections",
+				"Inflammatory bowel disease (e.g., Crohn’s, ulcerative colitis)",
+				"Less common: partial bowel obstruction, colon cancer"
+			],
+			"What to do": "If bloating or cramping is persistent, severe, or paired with other warning signs (blood in stool, unexplained weight loss, fatigue), schedule a medical checkup."
+		}
+	},
+	{
+		"question": "I feel like I still need to go to the bathroom even after I’ve had a bowel movement. What does that mean?",
+		"answer": {
+			"Possible causes": "This sensation, known as tenesmus, can occur with IBS, rectal inflammation (proctitis), hemorrhoids, or a growth in the rectum.",
+			"What to do": "If it’s an occasional feeling without other symptoms, it could be less serious. If it’s persistent—especially with bleeding or changes in stool—consider further evaluation."
+		}
+	},
+	{
+		"question": "I’ve lost weight without trying. Could it be related to my digestion?",
+		"answer": {
+			"Possible causes": [
+				"Malabsorption or chronic infections",
+				"Hyperthyroidism or other metabolic issues",
+				"Chronic diseases, including possible colon cancer"
+			],
+			"What to do": "Unintentional weight loss is a red flag—particularly if it comes with other GI symptoms like blood in stool or persistent changes in bowel habits. Talk to your doctor for a thorough check."
+		}
+	},
+	{
+		"question": "Why am I feeling so tired all the time?",
+		"answer": {
+			"Possible causes": [
+				"Iron deficiency anemia, which can result from gastrointestinal bleeding",
+				"Chronic conditions such as thyroid disorders or autoimmune diseases",
+				"Lifestyle factors like poor sleep or stress"
+			],
+			"What to do": "If fatigue is unexplained and severe—especially with low iron levels or other GI symptoms—your doctor may recommend blood tests and possibly a colonoscopy to rule out hidden bleeding."
+		}
+	},
+	{
+		"question": "Could my low iron levels or anemia be related to something more serious?",
+		"answer": {
+			"Possible causes": "Long-term, slow blood loss from the digestive tract can cause iron deficiency anemia.",
+			"What to do": "If standard iron supplements and dietary changes aren’t improving your anemia or you have other symptoms (blood in stool, persistent abdominal discomfort), additional testing (e.g., colonoscopy) is typically warranted to check for ulcers, polyps, or malignancies."
+		}
+	},
+	{
+		"question": "My appetite has changed recently. Should I be concerned?",
+		"answer": {
+			"Possible causes": [
+				"Stress, infections, or mild digestive issues",
+				"Underlying chronic illness (including GI disorders)",
+				"Early signs of a more serious condition like colon cancer, especially if you also have weight loss or abdominal pain"
+			],
+			"What to do": "If decreased or increased appetite persists and is paired with weight changes, bowel habit changes, or bleeding, speak with a healthcare provider for an evaluation."
+		}
+	},
+	{
+		"question": "I’ve been having mucus in my stool. Is that normal?",
+		"answer": {
+			"Possible causes": [
+				"Irritable Bowel Syndrome (IBS) can cause small amounts of mucus in the stool.",
+				"Inflammatory bowel diseases (like ulcerative colitis or Crohn’s) may also lead to mucus production—often accompanied by blood or abdominal pain.",
+				"Infections (bacterial or parasitic) can sometimes result in mucus, especially during diarrhea."
+			],
+			"When to Seek Help": "If you notice persistent mucus, or you also see blood, have abdominal pain, or experience unexplained weight loss, speak with a doctor. Occasional small amounts of mucus may be normal, but significant or chronic changes warrant evaluation."
+		}
+	}
+]
