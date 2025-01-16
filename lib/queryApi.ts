@@ -531,6 +531,182 @@ const questionsAndAnswers = [
 			},
 		],
 	},
+	{
+		question: "Hello/hey",
+		answers: [
+			{
+				details: [
+					"Hello there, I am a chatbot that will help you to know more about your conditions and potential risks of colon cancer. \n You may ask questions about common symptoms of colon cancer. \n You may ask me questions about your symptoms, like I have observed blood in my stool, or I have been having diarrhea/ constipation for weeks. \n You may ask questions about your potential risk of having colon cancer due to family history or age-related factors. \n You also may ask questions about colon cancer treatment and relevant side effects. \n \n What would you like to know? ",
+				],
+			},
+		],
+	},
+	{
+		question: "What are the common symptoms of colon cancer?",
+		answers: [
+			{
+				topic: "Change in bowel habits",
+				details: [
+					"Persistent diarrhea or constipation",
+					"Feeling that your bowel doesn't empty completely",
+					"Narrower-than-usual stools",
+				],
+			},
+			{
+				topic: "Rectal bleeding or blood in the stool",
+				details: [
+					"Bright red or very dark blood in or on the stool",
+					"Can sometimes appear as black, tar-like stools",
+				],
+			},
+			{
+				topic: "Persistent abdominal discomfort",
+				details: [
+					"Frequent gas, bloating, or cramping",
+					"Pain or tenderness in the lower abdomen",
+				],
+			},
+			{
+				topic: "Unexplained weight loss",
+				details: [
+					"Unintentional drop in weight despite no significant changes in diet or activity",
+				],
+			},
+			{
+				topic: "Fatigue or weakness",
+				details: [
+					"Ongoing tiredness that doesn’t improve with rest",
+					"o	Possible anemia (low red blood cell count) if there is bleeding in the colon",
+				],
+			},
+			{
+				topic: "Feeling of incomplete bowel evacuation",
+				details: [
+					"A sensation that the colon has not been fully emptied even after a bowel movement",
+				],
+			},
+			{
+				details: [
+					"If you have experienced any of these symptoms for an extended period or multiple combined symptoms, please seek medical attention as soon as possible. \n \n You may ask for more details of the symptoms you have been experiencing. ",
+				],
+			},
+		],
+	},
+	{
+		question: "How common is colon cancer?",
+		answers: [
+			{
+				details: [
+					"According to the World Health Organisation (WHO), there are approximately 1.1 million new cases worldwide each year and approximately 31,000 new cases annually in the UK.",
+				],
+			},
+		],
+	},
+	{
+		question: "How can colon cancer impact my life?",
+		answers: [
+			{
+				details: [
+					"It can impact personal life, including physical health, emotional and mental well-being, family and social life, etc., if there is any reason to cause your consciousness regarding the potential having colon cancer. You may ask the questions below: \n \nThe symptoms of colon cancer. \n \n What kind of test can I do to prevent having colon cancer? \n \nDoes my family history impact me from having a colon cancer? ",
+				],
+			},
+		],
+	},
+	{
+		question: "Nice/thank you",
+		answer: [
+			{
+				details: [
+					"Thank you for choosing the service of a chatbot; I genuinely wish you a happy and healthy life. ",
+				],
+			},
+		],
+	},
+	{
+		question: "Is colon cancer serious?",
+		answer: [
+			{
+				details: [
+					"It is one of the leading causes of cancer-related mortality in the world and should be considered a significant health concern. \n \n If you have any related symptoms, you may ask me here. You may also ask me about how your family’s colon cancer-related history can impact the risk for you to have colon cancer. ",
+				],
+			},
+		],
+	},
+	{
+		question:
+			"How can I manage the emotional stress of a potential cancer diagnosis?",
+		answers: [
+			{
+				details: [
+					"Coping with the emotional stress of a potential colon cancer diagnosis can be challenging. Here are strategies to manage this stress:",
+					"•	Acknowledge Your Emotions: It's normal to feel fear, anxiety, or sadness. Accepting these feelings is the first step toward managing them.",
+					"•	Stay Informed: Knowledge can reduce fear. Ask your healthcare provider questions and learn about the diagnostic process and treatment options.",
+					"•	Seek Support:\n o	Share your concerns with trusted family members or friends.\n o	Consider talking to a counselor or therapist who specializes in cancer-related stress.",
+					"•	Practice Relaxation Techniques:\n o	Engage in mindfulness, meditation, or deep-breathing exercises. \n o	Physical activities, like walking or yoga, can also reduce stress.",
+					"•	Focus on What You Can Control: Concentrate on healthy habits, such as eating well and staying physically active, to feel more empowered.",
+				],
+			},
+		],
+	},
+	{
+		question:
+			"Are there support groups or resources for patients with colon cancer?",
+		answers: [
+			{
+				details: [
+					"Yes, there are many support groups and resources available for patients dealing with colon cancer:",
+					"•	In-Person Support Groups: Many hospitals and cancer treatment centers host local support groups for cancer patients and their families.",
+					"•	Online Communities:\n o	Cancer Support Community (cancersupportcommunity.org) \no	Colorectal Cancer Alliance (ccalliance.org) \no	American Cancer Society Support Groups (cancer.org)",
+					"•	Therapy and Counseling:\n o	Psychologists or licensed therapists specializing in oncology can help with emotional coping.",
+					"•	Social Workers: Often provided through cancer treatment centers, social workers can assist with practical and emotional support.",
+				],
+			},
+		],
+	},
+	{
+		question: "How soon should I get these symptoms checked out?",
+		answers: [
+			{
+				details: [
+					"If you experience symptoms like bloody stool, prolonged fatigue, abdominal pain, or changes in bowel habits, it's important to seek medical attention immediately. Delaying diagnosis can allow the cancer to progress, potentially complicating treatment. Early detection significantly improves outcomes, so it’s better to err on the side of caution.",
+				],
+			},
+		],
+	},
+	{
+		question:
+			"Are these symptoms common, or do they indicate something unusual?",
+		answers: [
+			{
+				details: [
+					"While symptoms such as bloody stool, fatigue, or changes in bowel habits can result from less serious conditions (e.g., hemorrhoids, irritable bowel syndrome), their persistence or combination may indicate something more serious, like colon cancer. These symptoms are considered unusual if they persist beyond a few weeks, worsen over time, or are accompanied by other warning signs like unexplained weight loss. They warrant further investigation to rule out serious conditions.",
+				],
+			},
+		],
+	},
+	{
+		question: "If I wait a little longer, could it get worse?",
+		answers: [
+			{
+				details: [
+					"Yes, waiting to address symptoms could lead to a worse prognosis if colon cancer is the underlying cause. Colon cancer often progresses from early, treatable stages to more advanced stages over time:",
+					"•	Early-stage cancer (Stages I and II) has a high treatment success rate, often curable with surgery alone.",
+					"•	Advanced cancer (Stages III and IV) requires more aggressive treatments like chemotherapy or targeted therapies and may have a lower survival rate.",
+					"Seeking prompt medical attention ensures the best chance for early detection and effective treatment. Even if it’s not cancer, addressing the symptoms early can lead to faster relief and improved health outcomes.",
+				],
+			},
+		],
+	},
+	{
+		question: "Anything random",
+		answers: [
+			{
+				details: [
+					"I’m not sure if I understand your question properly, but you may ask questions about common symptoms of colon cancer. \n \nYou may ask me questions about your symptoms, like I have observed blood in my stool, or I have been having diarrhea/ constipation for weeks. \n \nYou may ask questions about your potential risk of having colon cancer due to family history or age-related factors. \n \n You also may ask questions about colon cancer treatment and relevant side effects. \n \n What would you like to know? ",
+				],
+			},
+		],
+	},
 ];
 
 export { questionsAndAnswers };

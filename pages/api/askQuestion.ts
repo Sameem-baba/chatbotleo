@@ -14,7 +14,9 @@ export default async function handler(
 
 	const promptsys = `You are an intelligent bot. Match the user query with the closest question from the following list and return the matched question only: ${questionsAndAnswers
 		.map((item) => `${item.question}`)
-		.join("\n")} User query: "${prompt}" Matched question: `;
+		.join(
+			"\n"
+		)} User query: "${prompt}" Matched question: If the user prompt is random then return "Anything random"`;
 
 	const { text } = await generateText({
 		model: google("gemini-1.5-pro-latest"),
