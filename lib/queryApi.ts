@@ -532,7 +532,17 @@ const questionsAndAnswers = [
 		],
 	},
 	{
-		question: "Hello/hey",
+		question: "Hello",
+		answers: [
+			{
+				details: [
+					"Hello there, I am a chatbot that will help you to know more about your conditions and potential risks of colon cancer. \n You may ask questions about common symptoms of colon cancer. \n You may ask me questions about your symptoms, like I have observed blood in my stool, or I have been having diarrhea/ constipation for weeks. \n You may ask questions about your potential risk of having colon cancer due to family history or age-related factors. \n You also may ask questions about colon cancer treatment and relevant side effects. \n \n What would you like to know? ",
+				],
+			},
+		],
+	},
+	{
+		question: "Hey",
 		answers: [
 			{
 				details: [
@@ -613,8 +623,18 @@ const questionsAndAnswers = [
 		],
 	},
 	{
-		question: "Nice/thank you",
-		answer: [
+		question: "thank you",
+		answers: [
+			{
+				details: [
+					"Thank you for choosing the service of a chatbot; I genuinely wish you a happy and healthy life. ",
+				],
+			},
+		],
+	},
+	{
+		question: "Nice",
+		answers: [
 			{
 				details: [
 					"Thank you for choosing the service of a chatbot; I genuinely wish you a happy and healthy life. ",
@@ -624,7 +644,7 @@ const questionsAndAnswers = [
 	},
 	{
 		question: "Is colon cancer serious?",
-		answer: [
+		answers: [
 			{
 				details: [
 					"It is one of the leading causes of cancer-related mortality in the world and should be considered a significant health concern. \n \n If you have any related symptoms, you may ask me here. You may also ask me about how your family’s colon cancer-related history can impact the risk for you to have colon cancer. ",
@@ -703,6 +723,16 @@ const questionsAndAnswers = [
 			{
 				details: [
 					"I’m not sure if I understand your question properly, but you may ask questions about common symptoms of colon cancer. \n \nYou may ask me questions about your symptoms, like I have observed blood in my stool, or I have been having diarrhea/ constipation for weeks. \n \nYou may ask questions about your potential risk of having colon cancer due to family history or age-related factors. \n \n You also may ask questions about colon cancer treatment and relevant side effects. \n \n What would you like to know? ",
+				],
+			},
+		],
+	},
+	{
+		question: "What can you do?",
+		answers: [
+			{
+				details: [
+					"I am a chatbot that will help you to know more about your conditions and potential risks of colon cancer. \n You may ask questions about common symptoms of colon cancer. \n You may ask me questions about your symptoms, like I have observed blood in my stool, or I have been having diarrhea/ constipation for weeks. \n You may ask questions about your potential risk of having colon cancer due to family history or age-related factors. \n You also may ask questions about colon cancer treatment and relevant side effects. \n \n What would you like to know? ",
 				],
 			},
 		],

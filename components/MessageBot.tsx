@@ -1,5 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 function MessageBot({ message }: any) {
+
     return (
         <div className="space-y-5">
             { message.text.map((section: any, i: any) => (
@@ -9,11 +10,14 @@ function MessageBot({ message }: any) {
                         <h1 className="font-semibold uppercase tracking-widest">{ section.topic }</h1>
                     ) }
                     <ul style={ { listStyleType: "none" } }>
-                        { section.details.map((pc: string, i: number) => (
-                            <li key={ i }>
-                                { pc }
-                            </li>
-                        )) }
+                        { section.details.map((pc: string, i: number) => {
+                            pc.replace("\n", "<br />");
+                            return (
+                                <li key={ i }>
+                                    { pc }
+                                </li>
+                            )
+                        }) }
                     </ul>
 
                 </div>
